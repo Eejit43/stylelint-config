@@ -1,8 +1,7 @@
 {
     "name": "@eejit/stylelint-config",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "dependencies": {
-        "stylelint": "^15.10.2",
         "stylelint-config-standard": "^34.0.0",
         "stylelint-use-nesting": "^4.1.0"
     }
