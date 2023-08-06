@@ -6,6 +6,6 @@ module.exports = {
         'color-named': 'always-where-possible',
         'function-disallowed-list': ['hsl', 'hwb', 'lab', 'lch'],
 
-        'csstools/use-nesting': 'always'
-    }
+        'csstools/use-nesting': 'always',
+    },
 };
