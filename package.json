@@ -7,6 +7,6 @@
         "stylelint-use-nesting": "^4.1.0"
     },
     "devDependencies": {
-        "@eejit/prettier-config": "^2.0.5"
+        "@eejit/prettier-config": "^2.1.0"
     }
 }
