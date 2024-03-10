@@ -9,8 +9,8 @@ dependencies:
     specifier: ^36.0.0
     version: 36.0.0(stylelint@16.1.0)
   stylelint-use-nesting:
-    specifier: ^5.1.0
-    version: 5.1.0(stylelint@16.1.0)
+    specifier: ^5.1.1
+    version: 5.1.1(stylelint@16.1.0)
 
 devDependencies:
   '@eejit/prettier-config':
@@ -951,8 +951,8 @@ packages:
       stylelint-config-recommended: 14.0.0(stylelint@16.1.0)
     dev: false
 
-  /stylelint-use-nesting@5.1.0(stylelint@16.1.0):
-    resolution: {integrity: sha512-SGhdevOB6aoXi5O7NJxN3H7Nl/LKZo6SGwdT89D6sGXwzPUPeCZZmKMDRjIdMHNHNxf3OIwnz3P4ohKBi8yP/g==}
+  /stylelint-use-nesting@5.1.1(stylelint@16.1.0):
+    resolution: {integrity: sha512-CMPN52zWGqogls7i6u0jCjOU7jb6/3r+1/VWkuSoA6KAATgHEvGe6xc9PcLMBKYLtTS1tblEyIUW8fiU36D5GQ==}
     engines: {node: '>=20.0.0'}
     peerDependencies:
       stylelint: '>= 16'
