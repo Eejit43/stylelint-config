@@ -16,8 +16,8 @@ importers:
         version: 5.1.1(stylelint@16.1.0(typescript@5.1.6))
     devDependencies:
       '@eejit/prettier-config':
-        specifier: ^2.3.1
-        version: 2.3.1(postcss@8.4.32)(typescript@5.1.6)
+        specifier: ^3.0.0
+        version: 3.0.0(postcss@8.4.32)(typescript@5.1.6)
 
 packages:
 
@@ -56,8 +56,8 @@ packages:
     peerDependencies:
       postcss-selector-parser: ^6.0.13
 
-  '@eejit/prettier-config@2.3.1':
-    resolution: {integrity: sha512-sbwQjfg0mdES5jyzfjZ8bsrQS8DUmV0HO5hLY79w/iU3JZsELt+bKbU1byqivp4prh3u5HdkiESR8tPs+LHFcg==}
+  '@eejit/prettier-config@3.0.0':
+    resolution: {integrity: sha512-eTp3LnMhh65iDRZeTuLCtf1H7Bvqs18rQ/EyaIoJfiBrlyEW+8T9vjBJlZzZFFuiT+8mQIh312Q5jVMYfs7txQ==}
 
   '@isaacs/cliui@8.0.2':
     resolution: {integrity: sha512-O8jcjabXaleOG9DQ0+ARXWZBTfnP4WNAqzuiJK7ll44AmxGKv/J2M4TPjxjY3znBCfvBXFzucm1twdyFybFqEA==}
@@ -722,7 +722,7 @@ snapshots:
     dependencies:
       postcss-selector-parser: 6.0.13
 
-  '@eejit/prettier-config@2.3.1(postcss@8.4.32)(typescript@5.1.6)':
+  '@eejit/prettier-config@3.0.0(postcss@8.4.32)(typescript@5.1.6)':
     dependencies:
       prettier: 3.3.3
       prettier-plugin-css-order: 2.1.2(postcss@8.4.32)(prettier@3.3.3)
