@@ -12,8 +12,8 @@ importers:
         specifier: ^36.0.1
         version: 36.0.1(stylelint@16.1.0(typescript@5.1.6))
       stylelint-use-nesting:
-        specifier: ^5.1.2
-        version: 5.1.2(stylelint@16.1.0(typescript@5.1.6))
+        specifier: ^6.0.0
+        version: 6.0.0(stylelint@16.1.0(typescript@5.1.6))
     devDependencies:
       '@eejit/prettier-config':
         specifier: ^3.0.0
@@ -620,11 +620,11 @@ packages:
     peerDependencies:
       stylelint: ^16.1.0
 
-  stylelint-use-nesting@5.1.2:
-    resolution: {integrity: sha512-MGSHQnpMif1f/FRMZT7yetTwqK2spGz/pimNBIznPLFQK3kewUgY/seWkQxWWYmvOe0qxaXoOrl+ZIjgJvSTRw==}
+  stylelint-use-nesting@6.0.0:
+    resolution: {integrity: sha512-5/Icok0O35pU3DpHRmISTsElba2btHpPlNcbVrwy6AhapIPKE1QqaMslYhI0Cjt5/w4ALS4iICde9BhVq7HYKA==}
     engines: {node: '>=20.0.0'}
     peerDependencies:
-      stylelint: '>= 16'
+      stylelint: '>= 16.9.0'
 
   stylelint@16.1.0:
     resolution: {integrity: sha512-Sh1rRV0lN1qxz/QsuuooLWsIZ/ona7NKw/fRZd6y6PyXYdD2W0EAzJ8yJcwSx4Iw/muz0CF09VZ+z4EiTAcKmg==}
@@ -1207,7 +1207,7 @@ snapshots:
       stylelint: 16.1.0(typescript@5.1.6)
       stylelint-config-recommended: 14.0.1(stylelint@16.1.0(typescript@5.1.6))
 
-  stylelint-use-nesting@5.1.2(stylelint@16.1.0(typescript@5.1.6)):
+  stylelint-use-nesting@6.0.0(stylelint@16.1.0(typescript@5.1.6)):
     dependencies:
       stylelint: 16.1.0(typescript@5.1.6)
 
