@@ -4,7 +4,7 @@
     "repository": "github:Eejit43/stylelint-config",
     "prettier": "@eejit/prettier-config",
     "dependencies": {
-        "stylelint-config-standard": "^39.0.0",
+        "stylelint-config-standard": "^39.0.1",
         "stylelint-use-nesting": "^6.0.0"
     },
     "devDependencies": {
