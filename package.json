@@ -1,7 +1,10 @@
 {
     "name": "@eejit/stylelint-config",
     "version": "6.0.0",
-    "repository": "github:Eejit43/stylelint-config",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Eejit43/stylelint-config.git"
+    },
     "prettier": "@eejit/prettier-config",
     "dependencies": {
         "stylelint-config-standard": "^39.0.1",
